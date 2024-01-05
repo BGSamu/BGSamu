@@ -1,6 +1,6 @@
 Samuel L.
 -------------------------------------
-🤖| Interested in coding Discord Bots
-🐍| Currently learning Python
-📝| Reach me on Discord: BGSamu#8870
+🤖| Interested in Solving Problems
+☕| Currently learning Java
+📝| Reach me on Discord: osemml
 -------------------------------------
